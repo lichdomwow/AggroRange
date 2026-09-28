@@ -1,0 +1,98 @@
+AggroRange License
+==================
+
+Copyright (c) 2026 Lichdom. All rights reserved.
+
+AggroRange is source-available proprietary software. Its source code is visible
+so that the addon can be distributed and used in accordance with Blizzard
+Entertainment's World of Warcraft UI Add-On Development Policy. Except for the permissions and exceptions stated below, visibility of the
+source code does not grant permission to copy, modify, redistribute, fork,
+or reuse it.
+
+SCOPE AND THIRD-PARTY RIGHTS
+---------------------------
+This license applies only to rights held or controlled by Lichdom. It does not
+claim ownership of individual game facts, mechanics, APIs, or material owned
+by others. It does not replace, restrict, or override any applicable
+third-party license or rights. See THIRD_PARTY_NOTICES.md for documented
+research sources and upstream notices.
+
+GITHUB HOSTING
+--------------
+When Lichdom publishes AggroRange in a public GitHub repository, nothing in
+this license limits permissions granted to GitHub or its users under the
+applicable GitHub Terms of Service, including viewing and forking through the
+service. Uses beyond those permissions remain subject to this license,
+applicable third-party rights, and applicable law.
+
+PERMITTED USE
+-------------
+You may:
+
+1. Download an official, unmodified copy of AggroRange from a distribution
+   channel authorized by Lichdom.
+2. Install and use that unmodified copy for personal, non-commercial gameplay.
+3. Make reasonable personal backup copies that are not distributed to others.
+4. View and inspect the source code.
+5. Show AggroRange in ordinary gameplay screenshots, videos, livestreams,
+   reviews, guides, and similar media, including monetized media, provided that
+   doing so does not redistribute the addon or its source code.
+6. Link to an official AggroRange distribution page.
+
+RESTRICTIONS
+------------
+Subject to the permissions and exceptions above and applicable law, except
+with prior written permission from Lichdom, you may not:
+
+1. Copy, publish, upload, mirror, rehost, repackage, bundle, sublicense, or
+   otherwise redistribute AggroRange, in whole or in substantial part, through
+   another website, repository, addon pack, application, service, or other
+   distribution channel.
+2. Modify, adapt, translate, port, or create derivative works based on
+   AggroRange for distribution to others.
+3. Create or distribute forks, unofficial updates, unofficial continuations,
+   successor projects, or renamed/rebranded versions based on AggroRange.
+4. Copy, reuse, reproduce, or incorporate AggroRange source code, documentation,
+   artwork, branding, or other protected expression into another project.
+5. Reuse or redistribute AggroRange's curated exception database as a protected
+   compilation to the extent that compilation is protected by applicable law.
+   Individual game facts, mechanics, or independently discovered information
+   are not claimed by this license.
+6. Remove, conceal, or alter copyright, authorship, or license notices.
+7. Use the AggroRange name or branding in a way that falsely implies that an
+   unofficial project is official, authorized, or endorsed by Lichdom.
+8. Sell, rent, sublicense, charge for access to, or otherwise commercially
+   exploit AggroRange itself.
+
+INDEPENDENT WORK
+----------------
+This license does not restrict independently created software that does not copy
+AggroRange's protected source code or other protected expression. Ideas, game
+mechanics, APIs, and facts remain subject to the rights and limitations that
+apply to them under applicable law.
+
+BLIZZARD ENTERTAINMENT
+----------------------
+World of Warcraft and related names, trademarks, game data, and other Blizzard
+Entertainment intellectual property are the property of Blizzard Entertainment
+and its licensors. This license grants no rights in Blizzard Entertainment's
+intellectual property. Use of AggroRange remains subject to Blizzard's terms,
+policies, and technical restrictions for World of Warcraft addons.
+
+NO WARRANTY
+-----------
+AggroRange is provided "as is", without warranty of any kind, express or
+implied. To the maximum extent permitted by law, Lichdom is not liable for any
+claim, damage, loss, character death, lost game progress, or other liability
+arising from use of or reliance on AggroRange.
+
+OTHER RIGHTS
+------------
+Nothing in this license limits rights that cannot lawfully be restricted,
+including any applicable fair-use, fair-dealing, or similar statutory rights.
+All rights held or controlled by Lichdom that are not expressly granted above
+are reserved by Lichdom.
+
+For uses of material controlled by Lichdom that are not otherwise permitted
+above, including forking, redistribution, porting, code reuse, or derivative
+versions, obtain prior written permission from Lichdom.

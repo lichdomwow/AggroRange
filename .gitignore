@@ -1,0 +1,17 @@
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Local packages and generated logs
+*.zip
+*.log
+*.bak
+
+# Never commit a player's WoW settings or saved data
+WTF/
+SavedVariables/

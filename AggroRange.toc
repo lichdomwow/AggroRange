@@ -1,0 +1,9 @@
+## Interface: 11509
+## Title: AggroRange
+## Notes: Classic Era/Hardcore aggro-clearance indicator with Mind Soothe support and conservative exception handling.
+## Author: Lichdom
+## Version: 1.0.0
+## SavedVariables: AggroRangeDB
+
+Exceptions.lua
+AggroRange.lua
